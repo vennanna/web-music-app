@@ -1,7 +1,15 @@
-#info about my actam project
+# info about my actam project
 
-##Quickstart
+This is a repo for my AI-based music generation app
+Here you'll find every details about the project
 
-##how to start
+## Quickstart
 
-##contribute
+```
+npm i
+```
+
+
+## how to start
+
+## contribute
